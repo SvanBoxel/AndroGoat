@@ -35,7 +35,7 @@ Vulnerabilities covered in this app:
 27. Fingerprint Authentication (Coming Soon)</br>
 </br>
 
-Download apk file from https://github.com/satishpatnayak/MyTest/blob/master/AndroGoat.apk , install and ride AndroGoat..</br></br>
+Download apk file from https://github.com/satishpatnayak/MyTest/blob/master/AndroGoat.apk, install and ride AndroGoat..</br></br>
 
 Feedbank and Ideas are welcome. Please reach me satishkumarpatnayak@live.com </br>
 Follow me on Twiiter for update on blogs, changes...etc https://twitter.com/satish_patnayak
